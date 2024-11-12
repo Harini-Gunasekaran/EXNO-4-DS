@@ -1,4 +1,4 @@
-# EXNO:4-DS
+# EXNO:4 Feature Scaling and Selection
 # AIM:
 To read the given data and perform Feature Scaling and Feature Selection process and save the
 data to a file.
@@ -218,12 +218,6 @@ print(f"Chi-Square Statistics: {chi2}")
 print(f"P-Value: {p}")
 
 ![Screenshot 2024-04-08 140616](https://github.com/arun1111j/EXNO-4-DS/assets/128461833/469760f6-4232-4c33-af9d-b8a8dcfd7d17)
-
-
-
-
-
-
 
 # RESULT:
 Thus, Feature selection and Feature scaling has been used on the given dataset.
